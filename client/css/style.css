@@ -1,0 +1,27 @@
+/* body */
+
+body{
+  background-size: cover;
+}
+
+/* Header CSS */
+.header {
+  top: 0px;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  display: block;
+  background-color: #fff;
+}
+
+/* Menu Buttons */
+.menuButtons {
+  padding-top: 130px;
+  position: fixed;
+  z-index: 1000;
+  margin-top: -40px;
+}
+/* Content CSS  */
+.content {
+  padding-top: 140px;
+}
